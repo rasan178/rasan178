@@ -1,4 +1,4 @@
-# 👋 Ayubowan! I'm Rasan
+# I'm Rasan
 
 🚀 A passionate developer from Sri Lanka, building cool tech with ❤️ and curiosity.
 
