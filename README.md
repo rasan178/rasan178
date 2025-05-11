@@ -22,7 +22,7 @@
 
 ## 📫 Let's connect
 - Email: [rasansamarakkody178@gmail.com](mailto:youremail@example.com)
-- LinkedIn: [Mylinkedin](https://linkedin.com/in/rasan-samarakkody)
+- LinkedIn: [Mylinkedin](https://linkedin.com/in/rasan-samarakkody-1b6b99256)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
