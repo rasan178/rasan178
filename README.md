@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Ayubowan! I'm Rasan
 
-<!--
-**rasan178/rasan178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate developer from Sri Lanka, building cool tech with ❤️ and curiosity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 Languages: Dart, JavaScript, Python
+- 📱 Mobile: Flutter
+- 🌐 Web: HTML, CSS, React
+- 🔙 Backend: Node.js, Firebase
+- ⚙️ Tools: VS Code, Git, Postman
+
+---
+
+## 🎯 What I'm up to
+- 🔭 Currently working on: **train_ticket_qr** – a Flutter-based QR ticket app 🚆
+- 🌱 Learning: Advanced backend development & system design
+- 🤝 Looking to collaborate on: Flutter apps, full-stack projects
+
+---
+
+## 📫 Let's connect
+- Email: [rasansamarakkody178@gmail.com](mailto:youremail@example.com)
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
