@@ -2,13 +2,13 @@
 <h3 align="center">A passionate full-stack developer and tech enthusiast</h3>
 
 <p align="center" style=" gap: 10 px;">
-  <a href="https://www.linkedin.com/in/rasan-samarakkody-1b6b99256/" target="_blank">
+  <a href="https://www.linkedin.com/in/rasan-samarakkody-1b6b99256/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/rasan.samarakkody/" target="_blank">
+  <a href="https://www.facebook.com/rasan.samarakkody/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/__raasss__/" target="_blank">
+  <a href="https://www.instagram.com/__raasss__/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
