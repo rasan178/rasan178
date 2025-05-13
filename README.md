@@ -25,6 +25,7 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 I'm an undergraduate pursuing a **Software Engineering degree at NSBM**  
 - 💡 I enjoy turning complex problems into simple, beautiful, and intuitive solutions  
 - 🔭 Currently working on **mobile & web development projects**  
 - 🌱 Learning **Flutter**, **React Native**, and backend tech  
@@ -56,9 +57,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasan178&show_icons=true&theme=github_dark" alt="rasan178 stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.demolab.com?user=rasan178&theme=github-dark" alt="rasan178 streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasan178&show_icons=true&theme=github_dark" alt="rasan178 GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=rasan178&theme=github-dark" alt="rasan178 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasan178&theme=github-dark" alt="rasan178 activity graph" />
 </p>
 
 ---
