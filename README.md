@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasan178&show_icons=true&theme=github_dark" alt="rasan178 stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasan178&theme=github-dark" alt="rasan178 streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rasan178&theme=github-dark" alt="rasan178 streak" />
 </p>
 
 ---
