@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rasan178&theme=github-dark&hide_border=true" alt="rasan178 GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasan178&theme=github-dark&hide_border=true" alt="rasan178 GitHub streak" />
 </p>
 
 <p align="center">
